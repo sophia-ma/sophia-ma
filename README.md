@@ -7,6 +7,7 @@ My name is Sofia Markoglou and I'm a Web Developer. I'm from Greece and currentl
 ## 🙋‍♀️ About Me
 - 👨‍🎓 Experience Level: 7+ years
 - 🔭 I’m currently working at Benefex
+- 💖 Miss my previous role at myairops and the amazing tech lead (shortly demoted to junior automation monkey)
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me: https://www.linkedin.com/in/sofia-markoglou/
 - ⚡ Fun fact: I play WoW if I am not spending time with my doggies
