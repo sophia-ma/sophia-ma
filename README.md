@@ -40,9 +40,9 @@ My name is Sofia Markoglou and I'm a Web Developer. I'm from Greece and currentl
 ## 📈 GitHub Analytics
 <p align="left">
   <a href="https://github.com/sophia-ma">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophia-ma&layout=compact&theme=dracula" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sophia-ma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=sophia-ma&theme=darcula&date_format=j%20M%5B%20Y%5D" />
+    <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophia-ma&layout=compact&theme=dracula" />
+    <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api?username=sophia-ma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" width="480em" src="http://github-readme-streak-stats.herokuapp.com?user=sophia-ma&theme=darcula&date_format=j%20M%5B%20Y%5D" />
   </a>
 </p>
 
